@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(33, 35, 38);
+    color: white;
+    text-align: center;
+
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+table, td {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid;
+    width: 20%;
+    margin-bottom: 10%;
+}
+.contents {
+    width: 100%;
+    clear:left;
+    padding-top: 2%;
+}
+.title{
+    margin-top: 10%;
+}
+.queryR {
+    width: 100%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+.search {
+    border-radius: 25px;
+    background-color: white;
+    width: 50%;
+    height: 30px;
+}
+.searchR {
+    border-radius: 25px;
+    background-color: white;
+    width: 70%;
+    height: 30px;
+    float: inline-start;
+}
+.btn {
+    border-radius: 25px;
+    padding: 5px;
+    height: 35px;
+}
+.btnR {
+    border-radius: 25px;
+    padding: 5px;
+    height: 35px;
+    float: inline-start;
+
+}
+.header {
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 15px;
+    /* display: inline-block; */
+}
+a:visited {
+    color: white;
+    text-decoration: none;
+
+}
+a:link {
+    color:white;
+    text-decoration: none;
+
+}
